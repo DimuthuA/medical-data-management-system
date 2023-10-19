@@ -1,7 +1,7 @@
 # Medical Data Management System
 A program with a CLI written in Python to record medical information related to patients.
 
-There are four user roles defined in this program, each with a different level of access privilege.
+There are four user roles defined, each with a different level of access privilege.
 The names and the level of access are as follows:
 
 • “doctor” – level of access 4
@@ -16,6 +16,7 @@ The first three user roles have both read and write access while the patient can
 through the program. To access read and write functionalities, the user must first login using the 
 correct credentials. A new user must sign up first before logging into the program.
 
+The program writes into and reads from a data file the following data records: personal details, sickness details, drug prescriptions, and lab test prescriptions.
 At the time of writing, the users must specify the level of sensitivity of the piece of information 
 being recorded.
 
