@@ -1,0 +1,17 @@
+kasun,81dc9bdb52d04dc20036dbd8313ed055,doctor,4
+peter,674f3c2c1a8a6f90461e8a66fb5550ba,lab_technician,2
+nadeesha,81dc9bdb52d04dc20036dbd8313ed055,doctor,4
+james,b59c67bf196a4758191e42f76670ceba,patient,1
+kate,934b535800b1cba8f96a5d72f72f1611,nurse,3
+kamal,b59c67bf196a4758191e42f76670ceba,patient,1
+dimuthu,81dc9bdb52d04dc20036dbd8313ed055,doctor,4
+oshadi,934b535800b1cba8f96a5d72f72f1611,nurse,3
+william,674f3c2c1a8a6f90461e8a66fb5550ba,lab_technician,2
+jane,674f3c2c1a8a6f90461e8a66fb5550ba,lab_technician,2
+john,b59c67bf196a4758191e42f76670ceba,patient,1
+jack,fa246d0262c3925617b0c72bb20eeb1d,doctor,4
+minindu,1e2a796539042ca860c3091662aa4346,doctor,4
+srimal,d93591bdf7860e1e4ee2fca799911215,patient,1
+kalana,b59c67bf196a4758191e42f76670ceba,lab_technician,2
+kevin,3b712de48137572f3849aabd5666a4e3,patient,1
+saman,81dc9bdb52d04dc20036dbd8313ed055,doctor,4

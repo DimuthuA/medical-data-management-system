@@ -1,0 +1,11 @@
+kamal,personal,patient is 35y in age. has no history of diseases in family.,1,2023-10-20 02:03:05
+kamal,sickness,mild nausea. body temperature is normal,1,2023-10-20 02:04:12
+kamal,drug,prescribed anti-nausea medicine,1,2023-10-20 02:05:36
+john,personal,aged 42. slightly underweight. has had high blood pressure for 10 years,2,2023-10-20 02:06:41
+john,lab,report for fasting blood sugar test: sugar level normal,1,2023-10-20 02:07:45john,drug,prescribed pain-killers for headache,1,2023-10-20 03:04:11
+john,drug,medicine for severe insomnia,4,2023-10-20 03:04:36
+srimal,personal,male - aged 28. has a history of mild back-pain,3,2023-10-20 03:12:34
+srimal,sickness,recently frequent back-pain along the left side,3,2023-10-20 03:13:20
+kevin,drug,prescribed paracetomol for mild headache,1,2023-10-20 03:14:03
+john,sickness,sore throat. diagnosed as a symptom of a viral infection,1,2023-10-20 04:23:30
+john,drug,prescribed antibiotics and vitamin C,1,2023-10-20 04:24:09
